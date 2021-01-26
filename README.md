@@ -1,8 +1,7 @@
 # Creating  Facebook Messenger bot
 
 
-You can read the  [documentation](https://developers.facebook.com/docs/messenger-platform/quickstart) the Messenger team prepared but it's not very clear for beginners and intermediate hackers. 
-
+You can read the  [documentation](https://developers.facebook.com/docs/messenger-platform/quickstart) the Messenger team prepared 
 
 ## 🙌 Get set
 
